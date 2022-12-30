@@ -1,0 +1,21 @@
+{
+    "theme" : "Choose theme",
+    "language" : "Choose language",
+    "light" : "Light theme",
+    "dark" : "Dark theme",
+    "english" : "English",
+    "arabic" : "Arabic",
+
+    "bible" : "Bible",
+    "pray" : "Pray",
+    "agpy" : "Agpy",
+    "radio" : "Radio",
+    "settings" : "Settings",
+
+    "verses" : "Choose verses",
+
+    "prayLord1" : "Lord Jesus Christ have mercy on me I am a sinner",
+    "prayLord2" : "Lord Jesus Christ help the weakness of my faith",
+    "prayLord3" : "Lord Jesus Christ hurry up and help me",
+    "prayLord4" : "Lord Jesus Christ...."
+}
